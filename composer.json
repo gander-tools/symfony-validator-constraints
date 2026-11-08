@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.9",
-        "symfony/validator": "8.1.10"
+        "symfony/validator": "8.1.11"
     },
     "autoload": {
         "psr-4": { "Gander\\Symfony\\Component\\Validator\\Constraints\\": "src/" }
